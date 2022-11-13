@@ -28,7 +28,7 @@ li a,
 
 li a:hover,
 .dropdown:hover .dropbtn {
-    background-color: #524F4D;
+    background-color: #58534e;
 }
 
 li.dropdown {
@@ -112,7 +112,9 @@ th.header {
     border-radius: 0px 15px 15px 0px;
 }
 
-::selection {
-    background-color: rgb(180, 226, 238);
-    color: black;
+iframe {
+    width: 75%;
+    height: 1000px;
+    margin: 0 auto;
+    display: block;
 }
